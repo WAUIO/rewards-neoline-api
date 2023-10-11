@@ -1,0 +1,26 @@
+{
+  "name": "rewards-neoline-api",
+  "version": "1.0.0",
+  "description": "Neoline wallet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WAUIO/rewards-neoline-api.git"
+  },
+  "keywords": [
+    "neoline"
+  ],
+  "author": "WAUIO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WAUIO/rewards-neoline-api/issues"
+  },
+  "homepage": "https://github.com/WAUIO/rewards-neoline-api#readme",
+  "dependencies": {
+    "@cityofzion/neon-js": "^5.5.1",
+    "lodash-es": "^4.17.21"
+  }
+}
